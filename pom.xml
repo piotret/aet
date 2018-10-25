@@ -651,6 +651,8 @@
               <exclude>**/*.jar</exclude>
               <exclude>**/*.war</exclude>
               <exclude>**/*.zip</exclude>
+              <exclude>**/*.xml</exclude>
+              <exclude>**/*.html</exclude>
 
               <exclude>**/*.json</exclude>
 
